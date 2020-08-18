@@ -1,0 +1,82 @@
+column_name,explanation,source
+solar_system_count,low (less than 10) or high solar power system coverage,deepsolar
+state,state name,ACS 2015 (5-Year Estimates)
+average_household_income,average annual houshold income ($),ACS 2015 (5-Year Estimates)
+employed,number of employed people,ACS 2015 (5-Year Estimates)
+gini_index,gini index,ACS 2015 (5-Year Estimates)
+land_area,total land area (mile^2),ACS 2015 (5-Year Estimates)
+per_capita_income,per capita annual income ($),ACS 2015 (5-Year Estimates)
+population,total population,ACS 2015 (5-Year Estimates)
+population_density,population density (/mile^2),ACS 2015 (5-Year Estimates)
+total_area,total area (mile^2),ACS 2015 (5-Year Estimates)
+unemployed,number of unemployed people,ACS 2015 (5-Year Estimates)
+water_area,total water area (mile^2),ACS 2015 (5-Year Estimates)
+education_less_than_high_school_rate,ratio of less than high school level people after 25 years old,ACS 2015 (5-Year Estimates)
+education_high_school_graduate_rate,ratio of high school graduate level people  (as highest degree) after 25 years old,ACS 2015 (5-Year Estimates)
+education_college_rate,ratio of college level people (as highest degree) after 25 years old,ACS 2015 (5-Year Estimates)
+education_bachelor_rate,ratio of bachelor level people (as highest degree) after 25 years old,ACS 2015 (5-Year Estimates)
+education_master_rate,ratio of master level people (as highest degree) after 25 years old,ACS 2015 (5-Year Estimates)
+education_professional_school_rate,ratio of professional school level people (as highest degree) after 25 years old,ACS 2015 (5-Year Estimates)
+education_doctoral_rate,ratio of doctoral level people (as highest degree) after 25 years old,ACS 2015 (5-Year Estimates)
+race_white_rate,ratio of whites,ACS 2015 (5-Year Estimates)
+race_black_africa_rate,ratio of black or African Americans,ACS 2015 (5-Year Estimates)
+race_indian_alaska_rate,ratio of American Indians and Alaska natives,ACS 2015 (5-Year Estimates)
+race_asian_rate,ratio of Asians,ACS 2015 (5-Year Estimates)
+race_islander_rate,ratio of native Hawaiians and other Pacific islanders,ACS 2015 (5-Year Estimates)
+race_other_rate,ratio of people of other races,ACS 2015 (5-Year Estimates)
+race_two_more_rate,raio of people with two or more races,ACS 2015 (5-Year Estimates)
+employ_rate,empoyment rate,ACS 2015 (5-Year Estimates)
+poverty_family_below_poverty_level_rate,ratio of people with two or more races,ACS 2015 (5-Year Estimates)
+heating_fuel_gas_rate,ratio of house units using gas as heating fuel,ACS 2015 (5-Year Estimates)
+heating_fuel_electricity_rate,ratio of house units using electricity as heating fuel ,ACS 2015 (5-Year Estimates)
+heating_fuel_fuel_oil_kerosene_rate,ratio of house units using fuel/oil/kerosene as heating fuel,ACS 2015 (5-Year Estimates)
+heating_fuel_coal_coke_rate,ratio of house units using coal/coke/wood as heating fuel ,ACS 2015 (5-Year Estimates)
+heating_fuel_other_rate,ratio of house units using other resources as heating fuel,ACS 2015 (5-Year Estimates)
+heating_fuel_none_rate,ratio of house units using no heating fuel,ACS 2015 (5-Year Estimates)
+electricity_price_residential,average residential electricity price (cents/kWh),EIA 2015
+electricity_price_commercial,average commercial electricity price (cents/kWh),EIA 2015
+electricity_price_industrial,average industrial electricity price (cents/kWh),EIA 2015
+electricity_price_transportation,average transportation electricity price (cents/kWh),EIA 2015
+electricity_price_overall,average overall electricity price (cents/kWh),EIA 2015
+electricity_consume_residential,average monthly residential electricity consumption (kWh),EIA 2015
+electricity_consume_commercial,average monthly commercial electricity consumption (kWh),EIA 2015
+electricity_consume_industrial,average monthly industrial electricity consumption (kWh),EIA 2015
+electricity_consume_total,average monthly total electricity consumption (kWh),EIA 2015
+household_count,total number of households,ACS 2015 (5-Year Estimates)
+average_household_size,average household size,ACS 2015 (5-Year Estimates)
+housing_unit_count,total number of housing units,ACS 2015 (5-Year Estimates)
+housing_unit_median_value,median housing unit value ($),ACS 2015 (5-Year Estimates)
+elevation,elevation,NASA Surface Meteorology and Solar Energy
+heating_design_temperature,heating design temperature (celsius),NASA Surface Meteorology and Solar Energy
+cooling_design_temperature,cooling design temperature (celsius),NASA Surface Meteorology and Solar Energy
+earth_temperature_amplitude,earth temperature amplitude (celsius),NASA Surface Meteorology and Solar Energy
+frost_days,number of frost days,NASA Surface Meteorology and Solar Energy
+air_temperature,air temperature (celsius),NASA Surface Meteorology and Solar Energy
+relative_humidity,relative humidity,NASA Surface Meteorology and Solar Energy
+daily_solar_radiation,daily solar radiation (kWh/m^2/d),NASA Surface Meteorology and Solar Energy
+atmospheric_pressure,atmospheric pressure,NASA Surface Meteorology and Solar Energy
+wind_speed,wind speed,NASA Surface Meteorology and Solar Energy
+earth_temperature,earth temperature (celsius),NASA Surface Meteorology and Solar Energy
+heating_degree_days,heating degree days,NASA Surface Meteorology and Solar Energy
+cooling_degree_days,cooling degree days,NASA Surface Meteorology and Solar Energy
+occupation_construction_rate,ratio of construction-related occupation,ACS 2015 (5-Year Estimates)
+occupation_public_rate,ratio of public-related occupation,ACS 2015 (5-Year Estimates)
+occupation_information_rate,ratio of information-related occupation,ACS 2015 (5-Year Estimates)
+occupation_finance_rate,ratio of finance-related occupation,ACS 2015 (5-Year Estimates)
+occupation_education_rate,ratio of education-related occupation,ACS 2015 (5-Year Estimates)
+occupation_administrative_rate,ratio of adminstrative-related occupation,ACS 2015 (5-Year Estimates)
+occupation_manufacturing_rate,ratio of manufacturing-related occupation,ACS 2015 (5-Year Estimates)
+occupation_wholesale_rate,ratio of wholesale-related occupation,ACS 2015 (5-Year Estimates)
+occupation_retail_rate,ratio of retail-related occupation,ACS 2015 (5-Year Estimates)
+occupation_transportation_rate,ratio of transportation-related occupation,ACS 2015 (5-Year Estimates)
+occupation_arts_rate,ratio of art-related occupation,ACS 2015 (5-Year Estimates)
+occupation_agriculture_rate,ratio of agriculture-related occupation,ACS 2015 (5-Year Estimates)
+occupancy_vacant_rate,ratio of vacant housing units,ACS 2015 (5-Year Estimates)
+voting_2016_dem_percentage,DEM voting percentage in 2016 election,townhall.com
+voting_2016_gop_percentage,GOP voting percentage in 2016 election,townhall.com
+voting_2016_dem_win,DEM win or not in 2016 election,townhall.com
+voting_2012_dem_percentage,DEM voting percentage in 2012 election,theguardian.com
+voting_2012_gop_percentage,GOP voting percentage in 2012 election,theguardian.com
+voting_2012_dem_win,DEM win or not in 2012 election,theguardian.com
+number_of_years_of_education,number of years of education,ACS 2015 (5-Year Estimates)
+diversity,racial diversity,ACS 2015 (5-Year Estimates)
