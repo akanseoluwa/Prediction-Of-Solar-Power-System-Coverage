@@ -1,8 +1,7 @@
-## Name : Akanseoluwa Adegoke
+##Name: Akanseoluwa Adegoke
 # Master's Student, Data and Computational Science,
 # University College Dublin.
 # © Akanseoluwa Adegoke, 2020
-
 
 
 ## Title - Prediction of Solar Power System Coverage 
