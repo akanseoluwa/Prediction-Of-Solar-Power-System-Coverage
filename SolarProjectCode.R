@@ -92,7 +92,7 @@
 # In the second category, heating_fuel_fuel_oil, total area and population are also  
 # included. 
 # 
-# After computing the performance of our model, our model has an accuracy of 85.45 percent.
+# After computing the performance of our model, the model has an accuracy of 85.45 percent.
 # This figure is lower than that of the Logistic Regression model.The model correctly 
 # classifies 8986 observations as high and 8733 observations as low. The model wrongly 
 # classifies 1914 as high and 1103 observations as low. We plot the ROC curve and the 
